@@ -277,7 +277,6 @@ The dashboard includes the following interactive components:
 - Slicers
 - Drill Through
 - Multi-page Navigation
-- Cross Filtering
 
 ---
 
@@ -322,7 +321,7 @@ This page provides a deeper analysis of pollutant levels and geographical distri
 - Top 10 Cities Analysis
 - Comparative Charts
 - Interactive Filtering
-- Cross-filtering between visuals
+- Funnel Chart
 
 The page enables detailed comparison between pollutant types, cities, and states.
 
