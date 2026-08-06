@@ -12,6 +12,11 @@ An end-to-end Business Intelligence project that demonstrates data preprocessing
 ![DAX](https://img.shields.io/badge/DAX-Measures%20%26%20Calculated%20Columns-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
 
+<p align="center">
+<img width="1774" height="887" alt="cover image" src="https://github.com/user-attachments/assets/0f2b4b67-b3a3-4d08-b627-24dc6062f844" />
+</p>
+
+
 </div>
 
 ---
