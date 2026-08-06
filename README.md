@@ -1,9 +1,4 @@
 <div align="center">
-
-# 🌍 Real-Time Air Quality Analysis Dashboard
-
-### Interactive Business Intelligence Dashboard using Microsoft Power BI
-
 An end-to-end Business Intelligence project that demonstrates data preprocessing, transformation, modeling, visualization, and insight generation using Real-Time Air Quality data.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
