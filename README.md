@@ -270,6 +270,7 @@ The dashboard includes the following interactive components:
 - Clustered Column Chart
 - Donut Chart
 - Pie Chart
+- Funnel Chart
 - Treemap
 - Interactive Map
 - Top 10 Analysis
