@@ -40,9 +40,9 @@ An end-to-end Business Intelligence project that demonstrates data preprocessing
 
 # 📌 Project Overview
 
-The **Real-Time Air Quality Analysis Dashboard** is an end-to-end Business Intelligence project developed using **Microsoft Excel** and **Microsoft Power BI**. The project focuses on analyzing air quality data collected from monitoring stations across different states and cities in India.
+The **Real-Time Air Quality Analysis Dashboard** is an end-to-end Business Intelligence project developed using Excel and Power BI. The project focuses on analyzing air quality data collected from monitoring stations across different states and cities in India.
 
-The workflow begins with **data preprocessing in Microsoft Excel**, where the dataset was inspected, cleaned, standardized, and validated. The cleaned dataset was then imported into **Power BI**, where **Power Query** was used for further transformation and preparation. Interactive visualizations were created using **DAX Measures**, **Calculated Columns**, KPI cards, maps, slicers, and drill-through functionality to enable meaningful analysis.
+The workflow begins with **data preprocessing in Excel**, where the dataset was inspected, cleaned, standardized, and validated. The cleaned dataset was then imported into **Power BI**, where **Power Query** was used for further transformation and preparation. Interactive visualizations were created using DAX Measures, Calculated Columns, KPI cards, maps, slicers, and drill-through functionality to enable meaningful analysis.
 
 The dashboard helps users compare pollution levels across different states, cities, and pollutant types while providing actionable insights for environmental monitoring and decision-making.
 
@@ -148,7 +148,7 @@ Incomplete records were removed to maintain data accuracy and reliability.
 
 ### 4. Removing Unnecessary Spaces
 
-The **TRIM()** function was applied to remove leading and trailing spaces from the **Station** column.
+The **TRIM()** function was applied to remove leading and trailing spaces from the Station column.
 
 ### 5. Date Standardization
 
@@ -162,7 +162,7 @@ dd-mm-yyyy hh:mm
 
 ### 6. Location Column
 
-A new **Location** column was created by combining the **Country** and **State** columns.
+A new **Location** column was created by combining the Country and State columns.
 
 ### 7. Filtering
 
@@ -423,7 +423,7 @@ Real-Time-Air-Quality-Analysis/
 # 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open the **Air Quality Dashboard.pbix** file in Microsoft Power BI Desktop.
+2. Open the Air Quality Dashboard.pbix file in Microsoft Power BI Desktop.
 3. Use the slicers, filters, and drill-through functionality to explore the dashboard.
 4. Review the Insights & Recommendations page for the key findings.
    
@@ -442,8 +442,6 @@ The project enables users to:
 
 ---
 
-<div align="center">  
-
 # 👨‍💻 Author
 
 ## Gayathri S Pillai
@@ -452,5 +450,12 @@ The project enables users to:
 
 📊 Aspiring Data Analyst | Power BI | Excel | Business Intelligence
 
+📧 Email: gayathrispillai2015@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/gayathri-s-pillai21
+
+<div align="center">
+
 ⭐ Thank you for visiting my project repository!
 
+</div>
